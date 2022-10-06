@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ADV-C96-Student"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kwitter"
+	}
+}
